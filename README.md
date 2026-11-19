@@ -1,3 +1,7 @@
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/Andd291/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261118/Andd291/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118)
+
 # 18 November 2026 — The World in One Day
 
 make.fun bounty entry: [Sum up 18 November's world news in one image](https://make.fun/bounty/news-image-20261118).
